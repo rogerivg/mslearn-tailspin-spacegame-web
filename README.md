@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/pocR/Proyecto%20Generado%20por%20template%20-%20Workflow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/pocR/Proyecto%20Generado%20por%20template%20-%20Workflow/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
